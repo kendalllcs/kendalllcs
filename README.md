@@ -3,7 +3,10 @@
 
 - 🔭 I’m currently working on **my Bachelors Degree**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
+
+- 🌱Learned
+       **Python**
 
 - 📫 How to reach me **lawsonk22@students.ecu.edu**
 

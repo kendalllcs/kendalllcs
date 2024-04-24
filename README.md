@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Bachelors Degree**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🎓 Learned **Python**
 

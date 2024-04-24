@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🎓 Learned **Python**
+- 🎓 Learned **Python**, **C#**
 
 - 📫 How to reach me **lawsonk22@students.ecu.edu**
 

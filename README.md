@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kendall</h1>
 <h3 align="center">A Software Engineering Student in United States</h3>
 
-- 🔭 I’m currently working on **my Bachelors Degree**
-
-- 🌱 I’m currently learning **JavaScript** and **Django**
-
 - 📫 How to reach me **kendalllawsoncs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

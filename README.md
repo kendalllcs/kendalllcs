@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript** and **Django**
 
-- 📫 How to reach me **lawsonk22@students.ecu.edu**
+- 📫 How to reach me **kendalllawsoncs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
